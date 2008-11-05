@@ -1,0 +1,20 @@
+<module>
+	<rawname>cidpopup</rawname>
+	<name>Post Answer CID PopUp</name>
+	<version>2.5.0.2</version>
+	<type>tool</type>
+	<category>System Administration</category>
+	<changelog>
+		*2.5.0.2* fixed bug not deleting entries when ringgoup deleted, resulting in reload failures
+		*2.5.0.1* adding GUI functionality
+		*2.5.0.0* first instance
+	</changelog>
+	<description>
+		Provide cidpopup hook for ringgoups, provides a popup agi script that can send CID info to SugarCRM which can be then configure to provide popups on agent systems that are answering the phone.
+	</description>
+	<menuitems>
+		<cidpopup>CID Popup Scripts</cidpopup>
+	</menuitems>
+	<location>release/2.5/cidpopup-2.5.0.0.tgz</location>
+	<md5sum>1d9e2eefaced2f884cbf0ed93eb5af9a</md5sum>
+</module>
