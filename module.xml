@@ -15,6 +15,6 @@
 	<menuitems>
 		<cidpopup>CID Popup Scripts</cidpopup>
 	</menuitems>
-	<location>release/contributed_modules/cidpopup-2.5.0.2.tgz</location>
-	<md5sum>daf67d1c7aeb5b9aedad7dc01cd01623</md5sum>
+	<location>contributed_modules/release/cidpopup-2.5.0.2.tgz</location>
+	<md5sum>c09eaa1049a864d2c378243343927037</md5sum>
 </module>
