@@ -3,7 +3,7 @@
 	<name>Post Answer CID PopUp</name>
 	<version>2.5.0.2</version>
 	<type>tool</type>
-	<category>System Administration</category>
+	<category>Third Party Addon</category>
 	<changelog>
 		*2.5.0.2* fixed bug not deleting entries when ringgoup deleted, resulting in reload failures
 		*2.5.0.1* adding GUI functionality
