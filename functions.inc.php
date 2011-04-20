@@ -38,7 +38,7 @@ function cidpopup_hookGet_config($engine) {
 			// Now splice each ringgoup that has this set
 			//
 			$context = 'ext-group';
-			$priority = 'skipov';
+			$priority = 'skipvmblk';
 			$groups = cidpopup_list('ringgroups');
 			foreach ($groups as $group) {
 				$exten = $group['id'];
